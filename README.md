@@ -1,93 +1,70 @@
-🛒 E-commerce Sales Dashboard (Excel Project)
-📌 Overview
 
-This project is based on a real-world e-commerce sales dataset.
-The goal was to analyze and visualize key sales insights — helping business owners and decision-makers understand their performance through data.
+📊 Marketing Performance Analytics Dashboard  
+🔖 Project Code: FUTURE_DS_02  
+🧩 Future Intern — Task 2  
 
-🎯 Objectives
+This project presents a **Marketing Performance Analytics Dashboard** built in **Power BI** to analyze marketing campaign performance, spending efficiency, and ROI across various channels, products, and regions.
 
-Identify best-selling products
+🚀 Project Overview
 
-Discover monthly sales trends and seasonal peaks
+Marketing campaigns generate a vast amount of performance data, including impressions, clicks, conversions, and revenue.  
+The goal of this dashboard is to visualize and interpret these metrics to support **data-driven decision-making**
 
-Analyze category-wise and region-wise revenue performance
+📈 Key Metrics & Derived Columns
 
-Present key insights through an interactive Excel dashboard
+Metric | Description
+CTR (Click-Through Rate):  `(Clicks / Impressions)` — measures engagement level 
+CPC (Cost Per Click): `(Spend / Clicks)` — indicates cost-efficiency 
+ROI (Return on Investment):  `((Revenue - Spend) / Spend) * 100` — shows profitability 
+Total Conversions:  Number of successful customer actions 
+Total Spend:  Total marketing expenditure 
 
-🧹 Step 1: Data Cleaning & Preparation
+📊 Dashboard Features
 
-Tasks performed in Excel:
+📅 Date Range Filter: for dynamic time-based analysis  
+📦 Product and Channel Filters: for focused insights  
+💸 Spend vs Revenue Analysis: to highlight ROI patterns  
+-Regional Insights:  using bar and line charts  
+-Quarterly Trends: to observe seasonal variations  
+-Interactive Visuals including:
+  - Clustered Column Charts  
+  - Donut Chart  
+  - Line Graphs  
+  - Matrix & Heatmap  
 
-1)Removed duplicates and blank records
+🧠 Insights Derived
 
-2)Formatted dates, product names, and sales columns
+- Total **Revenue:** 1.04M | **Avg ROI:** 13.86%  
+- **South Region** achieved the best ROI despite lower spend.  
+- **Product C** contributed the highest share to total revenue.  
+- **Social Media** and **Email** channels showed the best performance balance between cost and ROI.  
 
-3)Created calculated fields (e.g., Total Sales = Quantity × Unit Price)
+## 🛠️ Tools & Technologies
 
-4)Ensured data consistency across all sheets
+- **Power BI** — Dashboard Design & DAX Calculations    
+- **DAX** — Custom Calculated Columns  
+- **Data Visualization Principles** — For layout & storytelling  
 
-📊 Step 2: Data Analysis
 
-1)Performed analysis using:
 
-2)Pivot Tables for KPI summaries
+## 🧾 Project Screenshot
+https://github.com/SaniyaPathan12332/Future-intern-intership/blob/main/FUTURE_DS_02/Marketing.png
 
-3)Slicers for dynamic filtering
 
-4)Charts (Column, Line, Pie) to visualize trends and performance
 
-*Key Metrics:
 
-a)Total Sales
+## 📚 About This Project
 
-b)Total Profit
+This project was completed as part of my **Future Intern Data Analytics Internship**.  
+It was my **second task (Task 2)** under the code **FUTURE_DS_02**, focusing on **marketing performance evaluation and ROI analytics**.
 
-c)Profit Margin (%)
 
-d)Top 10 Products by Sales
+🔗 Connect with Me
 
-e)Monthly Sales Trend
+💼 **LinkedIn:** www.linkedin.com/in/saniya-pathan-3a00b7354  
+🐙 **GitHub:** https://github.com/SaniyaPathan12332
+   **Mail:**  saniyapathan1011@gmail.com
 
-📈 Step 3: Dashboard Creation
 
-A professional, interactive Excel Dashboard was created that includes:
 
-KPIs at the top for quick insights
 
-Dynamic charts (Sales by Month, Category, Region)
-
-Product-wise performance visualization
-
-Filters for Year, Region, and Category
-
-🧠 Insights
-
-1)Identified months with the highest sales peaks
-
-2)Found top-performing products and categories
-
-3)Highlighted low-performing regions for improvement strategies
-
-🛠️ Tools Used
-
-Microsoft Excel – Data Cleaning, Analysis, and Dashboard Design
-
-💡 Skills Gained
-
-Data Cleaning & Transformation
-
-KPI Creation and Pivot Analysis
-
-Business Insights through Visualization
-
-Dashboard Design & Storytelling
-
-💻Dataset: https://www.kaggle.com/datasets/mohamed38/superstoredataset
-
-📊 Dashboard ScreenShot: [https://github.com/sayyedriyaz/Future-intern-intership/blob/main/FUTURE_DS-01/FUTURE_DS_01.png
-
-👩‍💻 Author
-Riyaz Sayyed
-📧 Email: sayyedriyaz795@gmail.com
-💌 LinkedIn link: https://www.linkedin.com/in/riyaz-sayyed-38a106362 
-💼 Aspiring Data Analyst
