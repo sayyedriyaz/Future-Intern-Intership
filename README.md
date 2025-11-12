@@ -1,75 +1,93 @@
-# Future-Intern-Intership
-🌟Future Intern — Data Analytics Internship
-------------------------------------------------------
-Welcome to my Future Intern projects repository!
-This repository contains all my data analytics tasks and projects completed during the Future Intern Program, covering real-world case studies in data analysis, visualization, and interpretation.
+🛒 E-commerce Sales Dashboard (Excel Project)
+📌 Overview
 
-🎯 Internship Overview
-------------------------------------------------------
-Program Name: Future Intern — Data Science / Data Analytics Internship
-Duration: [Month – Year]
-Internship Mode: Virtual
-Organization: Future Intern
-Focus Areas:
+This project is based on a real-world e-commerce sales dataset.
+The goal was to analyze and visualize key sales insights — helping business owners and decision-makers understand their performance through data.
 
-• Power BI Dashboard Development
-• Data Cleaning and Analysis (Excel / Python)
-• Marketing and Business Data Insights
-• Report Writing and Visualization Storytelling
+🎯 Objectives
 
-📚 Learning Objectives
-------------------------------------------------------
-During this internship, I gained hands-on experience in:
+Identify best-selling products
 
-• Collecting, cleaning, and transforming datasets for   analysis
-• Building interactive dashboards using Power BI
-• Applying analytical metrics like CTR,        CPC,ROI,Conversion Rate, and Revenue
-• Creating mini-reports summarizing insights from     business data
-Presenting actionable findings to improve marketing and operational performance
+Discover monthly sales trends and seasonal peaks
 
-📂 Repository Structure
-------------------------------------------------------
-Folder	Description
-/Task_01_FUTURE_DS_01	Business Sales Analytics Dasboard
-/Task_02_FUTURE_DS_02	Marketing Performance Analytics Dashboard
-/Task_03_FUTURE_DS_03	[Feedback Sentiment & Ratings Analysis Dashboard]
-Each task folder includes:
+Analyze category-wise and region-wise revenue performance
 
-• Project dataset (cleaned/processed)
-• Power BI dashboard file (.pbix)
-• Screenshots of dashboard visuals
-• README.md explaining objectives, steps, and insights
+Present key insights through an interactive Excel dashboard
 
-🧠 Skills Developed
-------------------------------------------------------
-• Data Cleaning & Transformation
-• Power BI Dashboard Design
-• KPI & Metric Calculation (CTR, CPC, ROI)
-• Data Storytelling & Visualization
-• Excel Data Analysis
-• Business Insight Reporting
+🧹 Step 1: Data Cleaning & Preparation
 
-🔧 Tools & Technologies Used
-------------------------------------------------------
-Tool	Purpose
-Power BI	Dashboard creation & visualization
-Excel	Data cleaning, transformation, and preprocessing
-Python (optional)	For data manipulation and EDA
-GitHub	Version control & project showcase
+Tasks performed in Excel:
 
-🏆 Outcomes
-------------------------------------------------------
-✅ Improved ability to analyze and present marketing and business data
-✅ Built multiple real-world analytics dashboards
-✅ Strengthened understanding of KPIs and performance metrics
-✅ Gained experience with end-to-end data analytics workflow
+1)Removed duplicates and blank records
 
-🔗 Connect With Me
-------------------------------------------------------
-💼 LinkedIn: [www.linkedin.com/in/riyaz-sayyed-38a106362]
-🐙 GitHub: [https://github.com/sayyedriyaz]
-📧 Email: [ayyedriyaz795@gmail.com]
+2)Formatted dates, product names, and sales columns
 
-🏷️ Tags
-------------------------------------------------------
-#FutureIntern #DataAnalytics #PowerBI #DataVisualization #BusinessIntelligence #InternshipProjects
+3)Created calculated fields (e.g., Total Sales = Quantity × Unit Price)
+
+4)Ensured data consistency across all sheets
+
+📊 Step 2: Data Analysis
+
+1)Performed analysis using:
+
+2)Pivot Tables for KPI summaries
+
+3)Slicers for dynamic filtering
+
+4)Charts (Column, Line, Pie) to visualize trends and performance
+
+*Key Metrics:
+
+a)Total Sales
+
+b)Total Profit
+
+c)Profit Margin (%)
+
+d)Top 10 Products by Sales
+
+e)Monthly Sales Trend
+
+📈 Step 3: Dashboard Creation
+
+A professional, interactive Excel Dashboard was created that includes:
+
+KPIs at the top for quick insights
+
+Dynamic charts (Sales by Month, Category, Region)
+
+Product-wise performance visualization
+
+Filters for Year, Region, and Category
+
+🧠 Insights
+
+1)Identified months with the highest sales peaks
+
+2)Found top-performing products and categories
+
+3)Highlighted low-performing regions for improvement strategies
+
+🛠️ Tools Used
+
+Microsoft Excel – Data Cleaning, Analysis, and Dashboard Design
+
+💡 Skills Gained
+
+Data Cleaning & Transformation
+
+KPI Creation and Pivot Analysis
+
+Business Insights through Visualization
+
+Dashboard Design & Storytelling
+
+💻Dataset: https://www.kaggle.com/datasets/mohamed38/superstoredataset
+
+📊 Dashboard ScreenShot: https://github.com/SaniyaPathan12332/Future-intern-intership/blob/main/FUTURE_DS-01/FUTURE_DS_01.png
+
+👩‍💻 Author
+Saniya Pathan
+📧 Email: saniyapathan1011@gmail.com
+💌 LinkedIn link: https://www.linkedin.com/in/saniya-pathan-3a00b7354
+💼 Aspiring Data Analyst
