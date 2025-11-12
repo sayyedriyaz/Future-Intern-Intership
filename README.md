@@ -84,10 +84,10 @@ Dashboard Design & Storytelling
 
 💻Dataset: https://www.kaggle.com/datasets/mohamed38/superstoredataset
 
-📊 Dashboard ScreenShot: https://github.com/SaniyaPathan12332/Future-intern-intership/blob/main/FUTURE_DS-01/FUTURE_DS_01.png
+📊 Dashboard ScreenShot: [https://github.com/sayyedriyaz/Future-intern-intership/blob/main/FUTURE_DS-01/FUTURE_DS_01.png
 
 👩‍💻 Author
-Saniya Pathan
-📧 Email: saniyapathan1011@gmail.com
-💌 LinkedIn link: https://www.linkedin.com/in/saniya-pathan-3a00b7354
+Riyaz Sayyed
+📧 Email: sayyedriyaz795@gmail.com
+💌 LinkedIn link: https://www.linkedin.com/in/riyaz-sayyed-38a106362 
 💼 Aspiring Data Analyst
