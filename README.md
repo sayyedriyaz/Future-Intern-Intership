@@ -48,7 +48,7 @@ Total Spend:  Total marketing expenditure
 
 
 ## 🧾 Project Screenshot
-https://github.com/SaniyaPathan12332/Future-intern-intership/blob/main/FUTURE_DS_02/Marketing.png
+https://github.com/sayyedriyaz/Future-intern-intership/blob/main/FUTURE_DS_02/Marketing.png
 
 
 
@@ -61,10 +61,6 @@ It was my **second task (Task 2)** under the code **FUTURE_DS_02**, focusing on 
 
 🔗 Connect with Me
 
-💼 **LinkedIn:** www.linkedin.com/in/saniya-pathan-3a00b7354  
-🐙 **GitHub:** https://github.com/SaniyaPathan12332
-   **Mail:**  saniyapathan1011@gmail.com
-
-
-
-
+💼 **LinkedIn:** www.linkedin.com/in/riyaz-sayyed-38a106362 
+🐙 **GitHub:** https://github.com/sayyedriyaz
+   **Mail:**  sayyedriyaz795@gmail.com
