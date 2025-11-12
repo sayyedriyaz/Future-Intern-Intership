@@ -43,7 +43,7 @@ This project analyzes student feedback collected from college events like tech f
 
 ## How to Run
 1. Clone the repository  
-git clone https://github.com/SaniyaPathan12332/Event_Feedback_Analysis.git
+git clone https://github.com/sayyedriyaz/Event_Feedback_Analysis.git
 
 ## install required package
 pip install -r requirements.txt
