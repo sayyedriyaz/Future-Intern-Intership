@@ -1,66 +1,54 @@
+# Event Feedback Analysis 📊
 
-📊 Marketing Performance Analytics Dashboard  
-🔖 Project Code: FUTURE_DS_02  
-🧩 Future Intern — Task 2  
+## Project Overview
+This project analyzes student feedback collected from college events like tech fests, workshops, and cultural activities. The goal is to understand attendee satisfaction, identify areas of improvement, and provide actionable insights for event organizers.
 
-This project presents a **Marketing Performance Analytics Dashboard** built in **Power BI** to analyze marketing campaign performance, spending efficiency, and ROI across various channels, products, and regions.
+**Tools & Technologies Used:**  
+- Python (Pandas, NumPy)  
+- Matplotlib / Seaborn for visualizations  
+- NLP for sentiment analysis  
 
-🚀 Project Overview
+## Dataset  
+- **File:** event_feedback.csv
 
-Marketing campaigns generate a vast amount of performance data, including impressions, clicks, conversions, and revenue.  
-The goal of this dashboard is to visualize and interpret these metrics to support **data-driven decision-making**
+  **Columns:**  
+  - `Event_Name` – Name of the event  
+  - `Participant_ID` – Unique identifier for each respondent  
+  - `Rating` – Feedback rating (1–5)  
+  - `Comments` – Open text feedback  
 
-📈 Key Metrics & Derived Columns
+## Project Workflow
+1. **Data Cleaning**
+   - Checked for missing values and duplicates  
+   - Standardized column names  
+2. **Data Analysis**
+   - Aggregated ratings by event type  
+   - Performed sentiment analysis on text feedback  
+3. **Visualization**
+   - Plotted rating distributions, word clouds, and sentiment trends  
+4. **Insights & Recommendations**
+   - Identified most and least liked events  
+   - Highlighted common issues reported by participants  
+   - Provided actionable suggestions for improvement  
 
-Metric | Description
-CTR (Click-Through Rate):  `(Clicks / Impressions)` — measures engagement level 
-CPC (Cost Per Click): `(Spend / Clicks)` — indicates cost-efficiency 
-ROI (Return on Investment):  `((Revenue - Spend) / Spend) * 100` — shows profitability 
-Total Conversions:  Number of successful customer actions 
-Total Spend:  Total marketing expenditure 
+## Key Insights
+- 🎯 Most popular events: `[Insert top events]`  
+- ⚠️ Common complaints: `[Insert common issues]`  
+- 😊 Overall sentiment: `[Positive / Neutral / Negative percentage]`  
 
-📊 Dashboard Features
+## Recommendations
+- Organize more of `[Top event type]` as students enjoyed them the most  
+- Address `[common issues]` to improve overall satisfaction  
+- Encourage participants to give detailed feedback for better insights  
 
-📅 Date Range Filter: for dynamic time-based analysis  
-📦 Product and Channel Filters: for focused insights  
-💸 Spend vs Revenue Analysis: to highlight ROI patterns  
--Regional Insights:  using bar and line charts  
--Quarterly Trends: to observe seasonal variations  
--Interactive Visuals including:
-  - Clustered Column Charts  
-  - Donut Chart  
-  - Line Graphs  
-  - Matrix & Heatmap  
+## How to Run
+1. Clone the repository  
+git clone https://github.com/SaniyaPathan12332/Event_Feedback_Analysis.git
 
-🧠 Insights Derived
+## install required package
+pip install -r requirements.txt
 
-- Total **Revenue:** 1.04M | **Avg ROI:** 13.86%  
-- **South Region** achieved the best ROI despite lower spend.  
-- **Product C** contributed the highest share to total revenue.  
-- **Social Media** and **Email** channels showed the best performance balance between cost and ROI.  
-
-## 🛠️ Tools & Technologies
-
-- **Power BI** — Dashboard Design & DAX Calculations    
-- **DAX** — Custom Calculated Columns  
-- **Data Visualization Principles** — For layout & storytelling  
-
-
-
-## 🧾 Project Screenshot
-https://github.com/sayyedriyaz/Future-intern-intership/blob/main/FUTURE_DS_02/Marketing.png
-
-
-
-
-## 📚 About This Project
-
-This project was completed as part of my **Future Intern Data Analytics Internship**.  
-It was my **second task (Task 2)** under the code **FUTURE_DS_02**, focusing on **marketing performance evaluation and ROI analytics**.
+## open notebooks
+Open notebooks/Event_Feedback_Analysis.ipynb and run all cells.
 
 
-🔗 Connect with Me
-
-💼 **LinkedIn:** www.linkedin.com/in/riyaz-sayyed-38a106362 
-🐙 **GitHub:** https://github.com/sayyedriyaz
-   **Mail:**  sayyedriyaz795@gmail.com
