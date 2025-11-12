@@ -76,9 +76,9 @@ Each task folder includes:
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** [www.linkedin.com/in/saniya-pathan-3a00b7354]  
-🐙 **GitHub:** [https://github.com/SaniyaPathan12332]  
-📧 **Email:** [saniyapathan1011@gmail.com]  
+💼 **LinkedIn:** [www.linkedin.com/in/riyaz-sayyed-38a1063624]  
+🐙 **GitHub:** [https://github.com/sayyedriyaz]  
+📧 **Email:** [ayyedriyaz795@gmail.com]  
 
 
 
